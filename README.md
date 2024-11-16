@@ -18,7 +18,7 @@
 
 ### Java Developer  
 **Infodia Technologies Pvt Limited**  
-*Jan 2023 - Sep 2023*  
+*June 2023 - June 2024*  
 - Developed and maintained Java-based applications using **Spring Boot** and **Hibernate**.  
 - Collaborated with cross-functional teams to deliver high-quality solutions within deadlines.  
 - Integrated APIs and worked on debugging and improving application performance.
