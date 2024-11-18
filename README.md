@@ -57,4 +57,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TechNishant204&show_icons=true&locale=en" alt="TechNishant204" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TechNishant204&" alt="sandeepro24" /></p>
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=TechNishant204" alt="GitHub Streak Stats" />
