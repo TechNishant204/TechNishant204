@@ -2,6 +2,11 @@
 <h1 align="center">Hi 👋, I'm Nishant</h1>
 <h3 align="center">A Fullstack Java Developer</h3>
 
+<a href="https://github.com/TechNishant204/GitHub-Language-Stats">
+<img src="https://github.com/TechNishant204/GitHub-Language-Stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/TechNishant204/GitHub-Language-Stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+</a>
+
 - 🌱 I’m currently learning **SpringBoot, Angular, MongoDB**
 
 - 💬 Ask me about **Backend Development**
