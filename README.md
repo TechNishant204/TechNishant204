@@ -13,8 +13,7 @@
 
 - 📫 How to reach me **nishantmehto7588@gmail.com**
 
-- 📄 Know about my experiences
-- <a href="https://drive.google.com/file/d/1y6ecCkr3cwYPUS3KWN131GX77ebxJHai/view?usp=sharing">View Resume</a>
+- 📄 Wanna Know about my experiences: <a href="https://drive.google.com/file/d/1y6ecCkr3cwYPUS3KWN131GX77ebxJHai/view?usp=sharing">View Resume</a>
   
 - ## 🏆 **Experience**
 
