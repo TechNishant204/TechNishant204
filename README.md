@@ -44,8 +44,7 @@
 <a href="https://www.hackerrank.com/Nishant_pro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sandee_pro7" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/DevNishant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="j_san" height="30" width="40" /></a>
 </p>
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" height="400" />
-</a>
+
 
 <p align="center">
   <a>
@@ -67,10 +66,14 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="sql" width="40" height="40"/>
 </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
 <br>
+<!-- Gif -->
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" height="400" />
+</a>
+
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechNishant204&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="TechNishant204's Top Languages" />
 <!--   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=TechNishant204&show_icons=true&locale=en&layout=compact&theme=radical" alt="TechNishant204's Top Languages" /> -->
 </p> 
-
+<br>
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=TechNishant204&show_icons=true&locale=en" alt="TechNishant204" /> -->
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=TechNishant204&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="TechNishant204's GitHub Stats" /></p>
