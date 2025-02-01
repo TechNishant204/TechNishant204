@@ -53,7 +53,9 @@
 </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
 <br>
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=TechNishant204&show_icons=true&locale=en&layout=compact&theme=radical" alt="TechNishant204's Top Languages" />
-</p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechNishant204&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="TechNishant204's Top Languages" />
+<!--   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=TechNishant204&show_icons=true&locale=en&layout=compact&theme=radical" alt="TechNishant204's Top Languages" /> -->
+</p> 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TechNishant204&show_icons=true&locale=en" alt="TechNishant204" /></p>
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=TechNishant204&show_icons=true&locale=en" alt="TechNishant204" /> -->
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=TechNishant204&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="TechNishant204's GitHub Stats" /></p>
