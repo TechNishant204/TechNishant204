@@ -20,18 +20,18 @@
 </a>
 
   
-<h2>🏆 **Experience**</h2>
+<h2>🏆 Work Experience</h2>
 
 <h3>Java Developer </h3> 
-<h4>**Infodia Technologies Pvt Limited**</h4>  
-*June 2023 - June 2024*  
+<h4>Infodia Technologies Pvt Limited</h4>  
+<h5>June 2023 - June 2024</h5>
 - Developed and maintained Java-based applications using **Spring Boot** and **Hibernate**.  
 - Collaborated with cross-functional teams to deliver high-quality solutions within deadlines.  
 - Integrated APIs and worked on debugging and improving application performance.
 
 <h3>Java Full Stack Developer</h3>  
-<h4>**LTIMindtree** *(3 months)*</h4>
-*Jun 2024 - Aug 2024*  
+<h4>LTIMindtree </h4>
+<h5>Jun 2024 - Aug 2024</h5> 
 - Built full-stack applications using **Java**, **Spring Boot**, **Angular**, and **MySQL**.  
 - Participated in Agile workflows for efficient project delivery.  
 - Ensured seamless user experience with responsive front-end design and robust back-end services.
@@ -68,13 +68,13 @@
   </a>
 </p>
 
-<p>
+<p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechNishant204&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="TechNishant204's Top Languages" />
 <!--   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=TechNishant204&show_icons=true&locale=en&layout=compact&theme=radical" alt="TechNishant204's Top Languages" /> -->
 </p> 
 <br>
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=TechNishant204&show_icons=true&locale=en" alt="TechNishant204" /> -->
-<p>&nbsp;
+<p align="center">&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=TechNishant204&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="TechNishant204's GitHub Stats" />
 </p>
 
