@@ -4,7 +4,7 @@
 
 <h2 align="center">I'm Nishant Mahto</h2>
 
-<p align="right">
+<p align="center">
 A Fullstack Java Developer and a Tech enthusiast with a passion for solving real-world problems and developing new features.👨🏼‍💻<br>
 Apart from coding I always enjoy meeting new people and hearing about their perspectives on innovation and development 🤓.<br>
 Please feel free to collaborate with me🤝</h3>
