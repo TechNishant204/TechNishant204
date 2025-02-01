@@ -1,6 +1,6 @@
 
 <h2 align="center">Hello Coders!! 👋,</h2>
-![twitter head](https://user-images.githubusercontent.com/70385488/147853861-a67c8643-ff0f-451c-943f-db4e5589e4ee.png)
+<img src="https://user-images.githubusercontent.com/70385488/147853861-a67c8643-ff0f-451c-943f-db4e5589e4ee.png" alt="png"/>
 
 <h2>I'm Nishant Mahto</h2>
 
