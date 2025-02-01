@@ -1,13 +1,14 @@
 
-<h2 align="center">Hello Coders!! 👋</h2>
+<h2 align="center">Hello Coders!! 👋, I'm Nishant Mahto</h2>
 
-<h1 align="center">I'm Nishant Mahto</h1>
 <h3 align="center">A Fullstack Java Developer and a tech enthusiast with a passion to solve problems and to develop new things.👨🏼‍💻.Apart from coding I always enjoy meeting new people and hearing about their perspectives on innovation and development 🤓. Please don’t hesitate to reach out if you want to share thoughts about emerging tech or anything else.</h3>
 </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=TechNishant204&label=Profile%20views&color=0e75b6&style=flat" alt="TechNishant204" /> </p>
-
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=TechNishant204&label=Profile%20views&color=0e75b6&style=flat" alt="kishanrajput23" /> • 
+  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/TechNishant204?label=Followers&style=social"> •   
+<!--   <img src="https://img.shields.io/github/stars/TechNishant2043?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"> -->
+</p>
 <a target="_blank">
   <img align="right" height="250" width="400" alt="GIF" src="https://i.pinimg.com/originals/68/f3/ff/68f3ff8ddc1699f6234abee4e1d58dd9.gif">
 </a>
@@ -26,11 +27,7 @@
 
 - 📄 Wanna Know about my experiences: <a href="https://drive.google.com/file/d/1y6ecCkr3cwYPUS3KWN131GX77ebxJHai/view?usp=sharing">View Resume</a>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TechNishant204&label=Profile%20views&color=0e75b6&style=flat" alt="kishanrajput23" /> • 
-  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/TechNishant204?label=Followers&style=social"> •   
-<!--   <img src="https://img.shields.io/github/stars/TechNishant2043?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"> -->
-</p>
+
 <!-- Gif -->
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" height="400" />
 </a>
