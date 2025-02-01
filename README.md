@@ -1,20 +1,33 @@
 
 
-<h1 align="center">Hi 👋, I'm Nishant</h1>
+<h1 align="center">Hello Developers👋, I'm Nishant</h1>
 <h3 align="center">A Fullstack Java Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TechNishant204&label=Profile%20views&color=0e75b6&style=flat" alt="TechNishant204" /> </p>
 
 
+<a target="_blank">
+  <img align="right" height="250" width="400" alt="GIF" src="https://i.pinimg.com/originals/68/f3/ff/68f3ff8ddc1699f6234abee4e1d58dd9.gif">
+</a>
 
-- 🌱 I’m currently learning **SpringBoot, Angular, MongoDB**
+- 🌱 I’m currently working on  **SpringBoot, Angular, MongoDB**
 
-- 💬 Ask me about **Backend Development and Frontend Development**
+- 💬 Ask me about **Backend Development** and **Frontend Development**
+  
+- 🔭 I’m currently working on my **Logic Building Skill**
+
+- 🌱 I’m currently learning **Data Structure & Algorithms**
+
+- 👯 I’m looking to collaborate on **Development Based Projects**
 
 - 📫 How to reach me **nishantmehto7588@gmail.com**
 
 - 📄 Wanna Know about my experiences: <a href="https://drive.google.com/file/d/1y6ecCkr3cwYPUS3KWN131GX77ebxJHai/view?usp=sharing">View Resume</a>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=TechNishant204&label=Profile%20views&color=0e75b6&style=flat" alt="kishanrajput23" /> • 
+  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/TechNishant204?label=Followers&style=social"> •   
+  <img src="https://img.shields.io/github/stars/TechNishant2043?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
+</p>
 <!-- Gif -->
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" height="400" />
 </a>
@@ -77,7 +90,13 @@
 <p align="center">&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=TechNishant204&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="TechNishant204's GitHub Stats" />
 </p>
+<div align="center">
+  
+### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
 
+</div>
+
+![footer](https://github.com/TechNishant204/TechNishant204/blob/main/images/footer.png)
 
 
 
