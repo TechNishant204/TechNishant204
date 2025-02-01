@@ -4,8 +4,11 @@
 
 <h2 align="center">I'm Nishant Mahto</h2>
 
-<h3 align="right">A Fullstack Java Developer and a Tech enthusiast with a passion to solve real-world problems and to develop new things.👨🏼‍💻.Apart from coding I always enjoy meeting new people and hearing about their perspectives on innovation and development 🤓. Please feel free to collaborate.</h3>
-</h3>
+<p align="right">
+A Fullstack Java Developer and a Tech enthusiast with a passion for solving real-world problems and developing new features.👨🏼‍💻<br>
+Apart from coding I always enjoy meeting new people and hearing about their perspectives on innovation and development 🤓.<br>
+Please feel free to collaborate with me🤝</h3>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=TechNishant204&label=Profile%20views&color=0e75b6&style=flat" alt="kishanrajput23" /> • 
