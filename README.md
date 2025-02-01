@@ -1,8 +1,9 @@
 
-<h1 align="center">Hello Coders!! 👋</h1>
-<br>
+<h2 align="center">Hello Coders!! 👋</h2>
+
 <h1 align="center">I'm Nishant Mahto</h1>
-<h3 align="center">A Fullstack Java Developer👨🏼‍💻</h3>
+<h3 align="center">A Fullstack Java Developer and a tech enthusiast with a passion to solve problems and to develop new things.👨🏼‍💻.Apart from coding I always enjoy meeting new people and hearing about their perspectives on innovation and development 🤓. Please don’t hesitate to reach out if you want to share thoughts about emerging tech or anything else.</h3>
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TechNishant204&label=Profile%20views&color=0e75b6&style=flat" alt="TechNishant204" /> </p>
 
