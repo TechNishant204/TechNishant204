@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello Coders!! 👋, I'm Nishant Mahto</h2>
 
-<h3 align="right">A Fullstack Java Developer and a tech enthusiast with a passion to solve problems and to develop new things.👨🏼‍💻.Apart from coding I always enjoy meeting new people and hearing about their perspectives on innovation and development 🤓. Please don’t hesitate to reach out if you want to share thoughts about emerging tech or anything else.</h3>
+<h3 align="right">A Fullstack Java Developer and a tech enthusiast with a passion to solve problems and to develop new things.👨🏼‍💻.Apart from coding I always enjoy meeting new people and hearing about their perspectives on innovation and development 🤓. Please feel free to collaborate.</h3>
 </h3>
 
 <p align="center">
