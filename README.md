@@ -1,7 +1,10 @@
 
-<h2 align="center">Hello Coders!! 👋, I'm Nishant Mahto</h2>
+<h2 align="center">Hello Coders!! 👋,</h2>
+![twitter head](https://user-images.githubusercontent.com/70385488/147853861-a67c8643-ff0f-451c-943f-db4e5589e4ee.png)
 
-<h3 align="right">A Fullstack Java Developer and a tech enthusiast with a passion to solve problems and to develop new things.👨🏼‍💻.Apart from coding I always enjoy meeting new people and hearing about their perspectives on innovation and development 🤓. Please feel free to collaborate.</h3>
+<h2>I'm Nishant Mahto</h2>
+
+<h3 align="right">A Fullstack Java Developer and a Tech enthusiast with a passion to solve real-world problems and to develop new things.👨🏼‍💻.Apart from coding I always enjoy meeting new people and hearing about their perspectives on innovation and development 🤓. Please feel free to collaborate.</h3>
 </h3>
 
 <p align="center">
