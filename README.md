@@ -1,7 +1,8 @@
 
-
-<h1 align="center">Hello Developers👋, I'm Nishant</h1>
-<h3 align="center">A Fullstack Java Developer</h3>
+<h1 align="center">Hello Coders!! 👋</h1>
+<br>
+<h1 align="center">I'm Nishant Mahto</h1>
+<h3 align="center">A Fullstack Java Developer👨🏼‍💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TechNishant204&label=Profile%20views&color=0e75b6&style=flat" alt="TechNishant204" /> </p>
 
@@ -23,10 +24,11 @@
 - 📫 How to reach me **nishantmehto7588@gmail.com**
 
 - 📄 Wanna Know about my experiences: <a href="https://drive.google.com/file/d/1y6ecCkr3cwYPUS3KWN131GX77ebxJHai/view?usp=sharing">View Resume</a>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=TechNishant204&label=Profile%20views&color=0e75b6&style=flat" alt="kishanrajput23" /> • 
   <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/TechNishant204?label=Followers&style=social"> •   
-  <img src="https://img.shields.io/github/stars/TechNishant2043?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
+<!--   <img src="https://img.shields.io/github/stars/TechNishant2043?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"> -->
 </p>
 <!-- Gif -->
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" height="400" />
