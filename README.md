@@ -1,8 +1,12 @@
+<h1 align='center'>
+  <img src="<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=54F739&width=635&lines=%E2%9C%A8Hey+!+I'm+Nishant.+You+are+welcome+here%F0%9F%8C%9F" alt="Typing SVG" />
+</h1>
+<h2 align="center">I'm a FullStack Developer from INDIA!! 👋,</h2>
+<div align='center'>
+  <img src="https://user-images.githubusercontent.com/70385488/147853861-a67c8643-ff0f-451c-943f-db4e5589e4ee.png" alt="png"/>
+</div>
 
-<h2 align="center">Hello Coders!! 👋,</h2>
-<img src="https://user-images.githubusercontent.com/70385488/147853861-a67c8643-ff0f-451c-943f-db4e5589e4ee.png" alt="png"/>
 
-<h2 align="center">I'm Nishant Mahto</h2>
 
 <p align="center">
 A Fullstack Java Developer and a Tech enthusiast with a passion for solving real-world problems and developing new features.👨🏼‍💻<br>
