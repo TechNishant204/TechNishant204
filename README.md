@@ -48,9 +48,9 @@ Please feel free to collaborate with me🤝</h3>
 <h3>Java Developer </h3> 
 <h4>Infodia Technologies Pvt Limited</h4>  
 <h5>June 2023 - June 2024</h5>
-   <p>Developed and maintained Java-based applications using Spring Boot and Hibernate</p>
-   <p>Collaborated with cross-functional teams to deliver high-quality solutions within deadlines.</p> 
-   <p>Integrated APIs and worked on debugging and improving application performance.</p>
+   <p>->Developed and maintained Java-based applications using Spring Boot and Hibernate</p>
+   <p>->Collaborated with cross-functional teams to deliver high-quality solutions within deadlines.</p> 
+   <p>->Integrated APIs and worked on debugging and improving application performance.</p>
 
 <h3>Java Full Stack Developer</h3>  
 <h4>LTIMindtree </h4>
