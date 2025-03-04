@@ -9,7 +9,7 @@
 
 
 <p align="center">
-A Fullstack Java Developer and a Tech enthusiast with a passion for solving real-world problems and developing new features.👨🏼‍💻<br>
+A Fullstack Developer and a Tech enthusiast with a passion for solving real-world problems and developing new features.👨🏼‍💻<br>
 Apart from coding I always enjoy meeting new people and hearing about their perspectives on innovation and development 🤓.<br>
 Please feel free to collaborate with me🤝</h3>
 </p>
@@ -23,7 +23,7 @@ Please feel free to collaborate with me🤝</h3>
   <img align="right" height="250" width="400" alt="GIF" src="https://i.pinimg.com/originals/68/f3/ff/68f3ff8ddc1699f6234abee4e1d58dd9.gif">
 </a>
 
-- 🌱 I’m currently working on  **SpringBoot, Angular, MongoDB**
+- 🌱 I’m currently working on  **SpringBoot, Angular, React, MongoDB, PostgreSQL**
 
 - 💬 Ask me about **Backend Development** and **Frontend Development**
   
