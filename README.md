@@ -79,7 +79,7 @@ Please feel free to collaborate with me🤝</h3>
     <img src="https://skillicons.dev/icons?i=sass" />
     <img src="https://skillicons.dev/icons?i=bootstrap" />
     <img src="https://skillicons.dev/icons?i=materialui" />
-    <img src="https://skillicons.dev/icons?i=springboot" />
+    <img src="https://skillicons.dev/icons?i=spring" />
     <img src="https://skillicons.dev/icons?i=git" />
     <img src="https://skillicons.dev/icons?i=github" />
     <img src="https://skillicons.dev/icons?i=netlify" />
