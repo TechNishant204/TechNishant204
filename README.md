@@ -1,7 +1,7 @@
 <h1 align='center'>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=54F739&width=635&lines=%E2%9C%A8Hey+!+I'm+Nishant.+You+are+welcome+here%F0%9F%8C%9F" alt="Typing SVG" />
 </h1>
-<h2 align="center">I'm a FullStack Developer from INDIA!! 👋,</h2>
+<h2 align="center">I'm a MERN FullStack Developer from INDIA!! 👋,</h2>
 <div align='center'>
   <img src="https://user-images.githubusercontent.com/70385488/147853861-a67c8643-ff0f-451c-943f-db4e5589e4ee.png" alt="png"/>
 </div>
@@ -23,7 +23,8 @@ Please feel free to collaborate with me🤝</h3>
   <img align="right" height="250" width="400" alt="GIF" src="https://i.pinimg.com/originals/68/f3/ff/68f3ff8ddc1699f6234abee4e1d58dd9.gif">
 </a>
 
-- 🌱 I’m currently working on  **SpringBoot, Angular, React, MongoDB, PostgreSQL**
+- 🌱 I'm learning and working on **MongoDB, NodeJS, ReactJS, ExpressJS, PostgreSQL, AWS, Docker**
+- 🌱 I have worked on  **SpringBoot, Angular, React, MongoDB, PostgreSQL**
 
 - 💬 Ask me about **Backend Development** and **Frontend Development**
   
