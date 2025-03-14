@@ -113,7 +113,7 @@ Please feel free to collaborate with me🤝</h3>
 <p align="center">
   <a>
     <img height="150" width="150" src="https://github.com/TechNishant204/TechNishant204/blob/main/images/left.png" alt="wing-left-images">
-    <img align="center" src="https://streak-stats.demolab.com?user=TechNishant204&theme=tokyonight&hide_border=true" alt="TechNishant204's GitHub Stats" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=TechNishant204&theme=blueberry-duo" alt="GitHub Streak" />
 <!--     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kishanrajput23&theme=dark&hide_border=true"/> -->    
     <img height="150" width="150" src="https://github.com/TechNishant204/TechNishant204/blob/main/images/right.png" alt="wing-right-images" />
   </a>
