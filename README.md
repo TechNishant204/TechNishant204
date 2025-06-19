@@ -26,16 +26,16 @@
 
 ## 🚀 About Me
 
-const nishant = {
-    location: "India 🇮🇳",
-    role: "Full Stack Developer",
-    experience: "1+ years",
-    passion: ["Problem Solving", "Innovation", "Clean Code"],
-    currentFocus: "Building scalable web applications",
-    techStack: ["MERN", "Java", "Spring Boot", "Angular"],
-    availability: "Open to opportunities",
-    funFact: "I love meeting new people and hearing their perspectives! 🤓",
-    motto: "Code with purpose, build with passion! 💻✨"
+const nishant = {<br>
+    location: "India 🇮🇳",<br>
+    role: "Full Stack Developer",<br>
+    experience: "1+ years",<br>
+    passion: ["Problem Solving", "Innovation", "Clean Code"],<br>
+    currentFocus: "Building scalable web applications",<br>
+    techStack: ["MERN", "Java", "Spring Boot", "Angular"],<br>
+    availability: "Open to opportunities",<br>
+    funFact: "I love meeting new people and hearing their perspectives! 🤓",<br>
+    motto: "Code with purpose, build with passion! 💻✨"<br>
 };
 
 
@@ -51,7 +51,7 @@ const nishant = {
 <td width="50%">
 
 <!-- Gif -->
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300" height="300" />
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="500" height="500" />
 
 </td>
 </tr>
