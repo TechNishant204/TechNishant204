@@ -150,11 +150,10 @@ const nishant = {<br>
 
 <div align="center">
 
-
-[![Download Resume](https://img.shields.io/badge/📄_Download_Resume-FF5722?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)]([https://drive.google.com/file/d/1y6ecCkr3cwYPUS3KWN131GX77ebxJHai/view?usp=sharing](https://drive.google.com/file/d/1VIhxxJGdiyF4Qaal9Ee9L647XxeI1GRx/view?usp=sharing))
-[![View Online](https://img.shields.io/badge/🌐_View_Online-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)]([https://drive.google.com/file/d/1y6ecCkr3cwYPUS3KWN131GX77ebxJHai/view?usp=sharing](https://drive.google.com/file/d/1VIhxxJGdiyF4Qaal9Ee9L647XxeI1GRx/view?usp=sharing))
+[![View Resume](https://img.shields.io/badge/📄_View_Resume-FF5722?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://drive.google.com/file/d/1VIhxxJGdiyF4Qaal9Ee9L647XxeI1GRx/view?usp=sharing)
 
 </div>
+
 
 ---
 
