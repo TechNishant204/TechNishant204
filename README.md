@@ -6,9 +6,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=MERN%20Stack%20Developer&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Passionate%20about%20creating%20innovative%20solutions&descAlignY=51&descAlign=50" width="100%"/>
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/70385488/147853861-a67c8643-ff0f-451c-943f-db4e5589e4ee.png" alt="Developer" width="300"/>
-</div>
+
 
 <br>
 
