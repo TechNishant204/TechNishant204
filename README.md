@@ -1,5 +1,5 @@
 <h1 align='center'>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00D9FF&width=700&lines=✨+Hey+!+I'm+Nishant.+Welcome+to+my+Profile!+🌟;Full+Stack+Developer+%7C+Problem+Solver;Building+Amazing+Digital+Experiences+🚀" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=54F739&width=635&lines=%E2%9C%A8Hey+!+I'm+Nishant.+You+are+welcome+here%F0%9F%8C%9F" alt="Typing SVG" />
 </h1>
 
 <div align="center">
@@ -29,12 +29,17 @@
 ## 🚀 About Me
 
 const nishant = {
-location: "India 🇮🇳",
-role: "Full Stack Developer",
-passion: ["Problem Solving", "Innovation", "Clean Code"],
-currentFocus: "Building scalable web applications",
-funFact: "I love meeting new people and hearing their perspectives! 🤓"
+    location: "India 🇮🇳",
+    role: "Full Stack Developer",
+    experience: "1+ years",
+    passion: ["Problem Solving", "Innovation", "Clean Code"],
+    currentFocus: "Building scalable web applications",
+    techStack: ["MERN", "Java", "Spring Boot", "Angular"],
+    availability: "Open to opportunities",
+    funFact: "I love meeting new people and hearing their perspectives! 🤓",
+    motto: "Code with purpose, build with passion! 💻✨"
 };
+
 
 
 ### 🎯 Current Journey
@@ -47,7 +52,8 @@ funFact: "I love meeting new people and hearing their perspectives! 🤓"
 </td>
 <td width="50%">
 
-<img src="https://i.pinimg.com/originals/68/f3/ff/68f3ff8ddc1699f6234abee4e1d58dd9.gif" width="100%" alt="Coding GIF"/>
+<!-- Gif -->
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300" height="300" />
 
 </td>
 </tr>
@@ -134,10 +140,8 @@ funFact: "I love meeting new people and hearing their perspectives! 🤓"
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/softdevnishant/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_mahto_nishant)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/DevNishant)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/Nishant_pro)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/j_san)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nishantmehto7588@gmail.com)
 
 </div>
@@ -148,7 +152,7 @@ funFact: "I love meeting new people and hearing their perspectives! 🤓"
 
 <div align="center">
   
-[![Resume](https://img.shields.io/badge/View_Resume-FF5722?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://drive.google.com/file/d/1y6ecCkr3cwYPUS3KWN131GX77ebxJHai/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/View_Resume-FF5722?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)][(https://drive.google.com/file/d/1y6ecCkr3cwYPUS3KWN131GX77ebxJHai/view?usp=sharing)](https://drive.google.com/file/d/1VIhxxJGdiyF4Qaal9Ee9L647XxeI1GRx/view?usp=sharing)]
 
 </div>
 
