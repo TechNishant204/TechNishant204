@@ -149,15 +149,17 @@ const nishant = {<br>
 ## 📄 Resume
 
 <div align="center">
-  
-[![Resume](https://img.shields.io/badge/View_Resume-FF5722?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)][(https://drive.google.com/file/d/1y6ecCkr3cwYPUS3KWN131GX77ebxJHai/view?usp=sharing)](https://drive.google.com/file/d/1VIhxxJGdiyF4Qaal9Ee9L647XxeI1GRx/view?usp=sharing)]
+
+
+[![Download Resume](https://img.shields.io/badge/📄_Download_Resume-FF5722?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://drive.google.com/file/d/1y6ecCkr3cwYPUS3KWN131GX77ebxJHai/view?usp=sharing)
+[![View Online](https://img.shields.io/badge/🌐_View_Online-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1y6ecCkr3cwYPUS3KWN131GX77ebxJHai/view?usp=sharing)
 
 </div>
 
 ---
 
 <div align="center">
-### 💝 Show some love by starring my repositories!
+<strong>💝 Show some love by starring my repositories!</strong>
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%"/>
 </div>
 
