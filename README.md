@@ -1,5 +1,7 @@
 <h1 align='center'>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=00D9FF&width=700&lines=%E2%9C%A8+Hey+!+I'm+Nishant.+Welcome+to+my+Profile!+%F0%9F%8C%9F;Full+Stack+Developer+%7C+Problem+Solver;Building+Amazing+Digital+Experiences+%F0%9F%9A%80" alt="Typing SVG" />
+<!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=00D9FF&width=700&lines=%E2%9C%A8+Hey+!+I'm+Nishant.+Welcome+to+my+Profile!+%F0%9F%8C%9F;Full+Stack+Developer+%7C+Problem+Solver;Building+Amazing+Digital+Experiences+%F0%9F%9A%80" alt="Typing SVG" /> -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=FF5733&width=700&lines=%F0%9F%92%BB+Java+Full+Stack+Developer;Spring+Boot+%7C+Angular+%7C+React;Crafting+Scalable+Backend+Solutions+%E2%9A%99%EF%B8%8F;Turning+Ideas+Into+Code+%F0%9F%9A%80" alt="Typing SVG" />
+
 </h1>
 
 <div align="center">
